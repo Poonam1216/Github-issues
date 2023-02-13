@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(234, 217, 241);
+}
+
+#issue{
+    margin: 100px;
+    height: 400px;
+    width: 400px;
+    margin-bottom: 40px;
+    font-size: larger;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  
+  #prev{
+    width: 80px;
+    height: 30px;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    position: absolute;
+    left: 548px;
+  
+  }
+  
+  #next{
+    width: 80px;
+    height: 30px;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    position: absolute;
+    left: 776px;
+  
+  }
+
+  #page_btn{
+    position: relative;
+  
+  }
+
+  #page_no{
+    font-size: large;
+    position: relative;
+  }
